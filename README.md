@@ -1,0 +1,105 @@
+# HydrationCoach 💧  
+A simple beginner-friendly Python project that helps users calculate their daily water requirement and receive drinking reminders.
+
+---
+
+## 📌 Project Overview  
+HydrationCoach is a small Python application designed using basic programming concepts such as:
+
+- Variables, expressions, statements  
+- Functions and modules  
+- Conditional statements  
+- Loops  
+- Lists, tuples, sets, dictionaries  
+- Algorithm design  
+- Program verification  
+- Top-down design  
+- Analysis of algorithms
+
+This makes the project suitable for beginners and educational assignments.
+
+---
+
+## 📁 Project Structure
+
+HydrationCoach/
+│
+├── hydration_coach/
+│   ├── _init_.py  
+│   ├── config.py  
+│   ├── calculator.py  
+│   ├── reminders.py  
+│   ├── user_input.py  
+│   ├── main.py  
+│
+├── tests/
+│   ├── test_calculator.py  
+│   ├── test_reminders.py  
+│
+├── README.md  
+├── flowchart.md  
+
+---
+
+## 🚀 How to Run the Project
+
+### *Option 1: VS Code / Terminal*
+1. Open the project folder.
+2. Run:
+
+### *Option 2: Google Colab*
+Upload the entire folder → Run each file → Execute:
+---
+
+## 🧪 Running Tests
+---
+
+## 🔍 Output Information
+
+| File Name | Will It Show Output? | Notes |
+|-----------|----------------------|-------|
+| *main.py* | ✅ Yes | Shows full summary |
+| *calculator.py* | ❌ No | Contains only functions |
+| *config.py* | ❌ No | Contains constants |
+| *user_input.py* | ❌ No | Returns a dictionary |
+| *reminders.py* | ⚠ Sometimes | Works normally in VS Code; Colab pauses time.sleep |
+| *test_calculator.py* | ✅ Yes | Prints test output |
+| *test_reminders.py* | ⚠ Maybe | Depends on how time.sleep behaves |
+
+---
+
+## 📘 Algorithm
+
+### Step 1 — Input
+Get user name, weight and reminder interval.
+
+### Step 2 — Process
+### Step 3 — Output  
+Print calculated water requirement.
+
+### Step 4 — Reminder Loop
+---
+
+## ✔ Program Verification  
+- All functions tested using print()-based tests.  
+- Edge cases handled (negative weight, zero values).  
+- Reminder loop tested with small 1-second delays.  
+
+---
+
+## 🌟 Educational Concepts Covered  
+- Top-down design  
+- Modular programming  
+- Algorithm design  
+- Flow of execution  
+- Boolean conditions  
+- if, elif, else  
+- for and while loops  
+- Break and continue  
+- Lists, tuples, sets, dictionaries  
+- Testing and debugging  
+
+---
+
+## ✨ Author  
+Project created as an educational demonstration for Python beginners.
