@@ -101,5 +101,19 @@ Print calculated water requirement.
 - Testing and debugging  
 
 ---
+## Hydration Coach Screenshots
 
+## Screenshot 1
+!(reminder)(screenshots/Screenshot(194).png)
+## Screenshot 2
+!(Main)(screenshots/Screenshot(196).png)
+## Screenshot 3
+!(test calculator)(screenshots/Screenshot(198).png)
+## Screenshot 4
+!(test reminder)(screenshots/Screenshot(201).png)
+---
+## Flowchart
 ## ✨ Author  
+**Jhanvi Nag**
+GITHub:
+
