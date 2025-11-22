@@ -1,5 +1,5 @@
 # HydrationCoach 💧  
-A simple beginner-friendly Python project that helps users calculate their daily water requirement and receive drinking reminders.
+A  Python project that helps users calculate their daily water requirement and receive drinking reminders.
 
 ---
 
@@ -16,8 +16,6 @@ HydrationCoach is a small Python application designed using basic programming co
 - Top-down design  
 - Analysis of algorithms
 
-This makes the project suitable for beginners and educational assignments.
-
 ---
 
 ## 📁 Project Structure
@@ -33,11 +31,14 @@ HydrationCoach/
 │   ├── main.py  
 │
 ├── tests/
+|   |---_init_.py 
 │   ├── test_calculator.py  
 │   ├── test_reminders.py  
 │
 ├── README.md  
-├── flowchart.md  
+    ├── flowchart.png
+    |--- images/screenshot.png
+    |--- test_results/screenshot.png
 
 ---
 
@@ -102,4 +103,3 @@ Print calculated water requirement.
 ---
 
 ## ✨ Author  
-Project created as an educational demonstration for Python beginners.
