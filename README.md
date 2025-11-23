@@ -4,18 +4,10 @@ A  Python project that helps users calculate their daily water requirement and r
 ---
 
 ## 📌 Project Overview  
-HydrationCoach is a small Python application designed using basic programming concepts such as:
-
-- Variables, expressions, statements  
-- Functions and modules  
-- Conditional statements  
-- Loops  
-- Lists, tuples, sets, dictionaries  
-- Algorithm design  
-- Program verification  
-- Top-down design  
-- Analysis of algorithms
-
+Hydration Coach is a simple Python-based tool that helps users track their daily water intake and stay hydrated. It calculates personalized water requirements based on factors like age, weight, and activity level, and sends friendly reminders to drink water throughout the day. The program also records user inputs and gives feedback on hydration progress. This makes it a helpful everyday companion for building healthy hydration habits.
+---
+## How it Works?
+Hydration Coach collects basic user details like age, weight, and activity level to calculate a recommended daily water intake. It then tracks how much water the user drinks throughout the day and compares it with the target. The program sends periodic reminders to drink water using simple functions. Finally, it displays progress so users can maintain healthy hydration habits.
 ---
 
 ## 📁 Project Structure
