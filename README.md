@@ -56,17 +56,6 @@ Upload the entire folder → Run each file → Execute:
 ---
 
 ## 🔍 Output Information
-
-| File Name | Will It Show Output? | Notes |
-|-----------|----------------------|-------|
-| *main.py* | ✅ Yes | Shows full summary |
-| *calculator.py* | ❌ No | Contains only functions |
-| *config.py* | ❌ No | Contains constants |
-| *user_input.py* | ❌ No | Returns a dictionary |
-| *reminders.py* | ⚠ Sometimes | Works normally in VS Code; Colab pauses time.sleep |
-| *test_calculator.py* | ✅ Yes | Prints test output |
-| *test_reminders.py* | ⚠ Maybe | Depends on how time.sleep behaves |
-
 ---
 
 ## 📘 Algorithm
