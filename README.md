@@ -119,5 +119,5 @@ Print calculated water requirement.
 !(REPORT)(REPORT(Hydration Coach).pdf
 ## ✨ Author  
 **Jhanvi Nag**
-GITHub: https://github.com/jhanvinag30-Jss/HydrationCoach.git
+-GITHub: https://github.com/jhanvinag30-Jss/HydrationCoach.git
 
