@@ -50,9 +50,7 @@ Upload the entire folder → Run each file → Execute:
 ---
 
 ## 🧪 Running Tests
----
 
-## 🔍 Output Information
 ---
 
 ## 📘 Algorithm
