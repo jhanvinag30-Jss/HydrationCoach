@@ -113,6 +113,7 @@ Print calculated water requirement.
 !(test reminder)(screenshots/Screenshot(201).png)
 ---
 ## Flowchart
+!(Flowchart)(Flowchart/Flowchart.png)
 ## ✨ Author  
 **Jhanvi Nag**
 GITHub: https://github.com/jhanvinag30-Jss/HydrationCoach.git
