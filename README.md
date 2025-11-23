@@ -110,10 +110,10 @@ Print calculated water requirement.
 ## Screenshot 3
 !(test calculator)(screenshots/Screenshot(198).png)
 ## Screenshot 4
-!(test reminder)(screenshots/Screenshot(201).png)
+<img width="2240" height="1400" alt="image" src="https://github.com/user-attachments/assets/aaef54dc-0053-4938-b82c-101b5fc6726a" />
+
 ---
 ## Flowchart
-!(Flowchart)(Flowchart/Flowchart.png)
 <img width="1491" height="1173" alt="image" src="https://github.com/user-attachments/assets/9f9182d2-2a9e-4710-a0b3-ba1e3ab9a18a" />
 
 ---
