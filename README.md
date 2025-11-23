@@ -114,6 +114,9 @@ Print calculated water requirement.
 ---
 ## Flowchart
 !(Flowchart)(Flowchart/Flowchart.png)
+---
+##📁 REPORT
+!(REPORT)(REPORT(Hydration Coach).pdf
 ## ✨ Author  
 **Jhanvi Nag**
 GITHub: https://github.com/jhanvinag30-Jss/HydrationCoach.git
