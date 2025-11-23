@@ -114,6 +114,8 @@ Print calculated water requirement.
 ---
 ## Flowchart
 !(Flowchart)(Flowchart/Flowchart.png)
+<img width="1491" height="1173" alt="image" src="https://github.com/user-attachments/assets/9f9182d2-2a9e-4710-a0b3-ba1e3ab9a18a" />
+
 ---
 ##📁 REPORT
 !(REPORT)(REPORT(Hydration Coach).pdf
