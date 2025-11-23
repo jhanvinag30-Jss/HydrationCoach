@@ -106,7 +106,8 @@ Print calculated water requirement.
 ## Screenshot 1
 !(reminder)(screenshots/Screenshot(194).png)
 ## Screenshot 2
-!(Main)(screenshots/Screenshot(196).png)
+<img width="2240" height="1400" alt="image" src="https://github.com/user-attachments/assets/ac22ee8e-7ffa-4381-8fc6-4e179f7c5511" />
+
 ## Screenshot 3
 <img width="2240" height="1400" alt="image" src="https://github.com/user-attachments/assets/dd952e42-5088-4004-b135-cc39233180da" />
 
