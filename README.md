@@ -104,7 +104,8 @@ Print calculated water requirement.
 ## Hydration Coach Screenshots
 
 ## Screenshot 1
-!(reminder)(screenshots/Screenshot(194).png)
+<img width="2240" height="1400" alt="image" src="https://github.com/user-attachments/assets/55a9cb31-c24e-441c-923c-c60c4b4bccae" />
+
 ## Screenshot 2
 <img width="2240" height="1400" alt="image" src="https://github.com/user-attachments/assets/ac22ee8e-7ffa-4381-8fc6-4e179f7c5511" />
 
